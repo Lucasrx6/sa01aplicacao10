@@ -6,9 +6,15 @@ Este programa tem a finalidade de resolver a decima atividade da aula de Desenvo
 
 Prints da tela Ao executar:
 
-Resultado
+![Print 1](https://user-images.githubusercontent.com/86980974/216163769-1244c178-a70c-4571-be40-57957362595b.PNG)
 
-print6
+
+![print2](https://user-images.githubusercontent.com/86980974/216163784-f89e858f-d3b8-47d4-9e81-836023f612c5.PNG)
+
+Caso digitado errado 3 vezes
+
+![print3](https://user-images.githubusercontent.com/86980974/216163793-0b8e6179-c048-4fad-b274-5cf2eee8893b.PNG)
+
 ----------------------------------------------------------------------
 
 Código Principal
